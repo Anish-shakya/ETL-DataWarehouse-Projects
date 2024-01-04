@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-KS7VJCB.AdventureWorksDW2012"
+  DTS:DTSID="{156CC3FF-357D-41E5-9F83-12B586277552}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-KS7VJCB;Initial Catalog=AdventureWorksDW2012;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-SSIS Tutorial-{156CC3FF-357D-41E5-9F83-12B586277552}DESKTOP-KS7VJCB.AdventureWorksDW2012;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
